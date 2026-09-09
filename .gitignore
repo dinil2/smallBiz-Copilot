@@ -23,6 +23,11 @@
 # misc
 .DS_Store
 *.pem
+.netlify
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+*.docx
 
 # debug
 npm-debug.log*
